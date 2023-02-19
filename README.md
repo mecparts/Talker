@@ -1,6 +1,7 @@
 # General Instrument code to speech board
 
-![Talker PCB](Talker_PCB.jpg "Talker PCB")
+
+https://user-images.githubusercontent.com/2958269/219981340-8b78e90d-9670-4efd-8d31-d1f6b8fc3262.mp4
 
 Quoted from [General Instrument Application Note 0505D: CTS256A-AL2 Code-to-Speech Chipset](https://bitsavers.computerhistory.org/components/gi/speech/General_Instrument_-_AN-0505D_-_CTS256A-AL2_Code-to-Speech_Chipset_-_10Dec1986.pdf)
 
