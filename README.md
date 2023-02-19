@@ -1,6 +1,6 @@
 # General Instrument code to speech board
 
-![Talker PCB](Talker PCB.jpg "Talker PCB")
+![Talker PCB](Talker_PCB.jpg "Talker PCB")
 
 Quoted from [General Instrument Application Note 0505D: CTS256A-AL2 Code-to-Speech Chipset](https://bitsavers.computerhistory.org/components/gi/speech/General_Instrument_-_AN-0505D_-_CTS256A-AL2_Code-to-Speech_Chipset_-_10Dec1986.pdf)
 
@@ -34,7 +34,7 @@ rushed, and I beg your forgiveness for any obvious in retrospect errors.
 
 ## Schematic
 
-![Talker schematic](Talker schematic.png "Talker schematic")
+![Talker schematic](Talker_schematic.png "Talker schematic")
 
 The schematic is based largely on the schematics included in the "Technical
 Data" sheets that used to be stapled to the back of the Radio Shack
