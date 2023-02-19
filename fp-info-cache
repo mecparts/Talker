@@ -1,0 +1,162 @@
+19512836785
+modules
+BarrelJack_Horizontal
+DC Barrel Jack
+Power Jack
+0
+3
+3
+modules
+CP_Radial_D5.0mm_P2.00mm
+CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+modules
+CP_Radial_D6.3mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor
+0
+2
+2
+modules
+C_Disc_D3_P2.5
+Capacitor 3mm Disc, Pitch 2.5mm
+Capacitor
+0
+2
+2
+modules
+Crystal_HC49-U_Vertical
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystalHC-49/U
+0
+2
+2
+modules
+DIP-8_W7.62mm_LongPads
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+8
+8
+modules
+DIP-14_W7.62mm_LongPads
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+14
+14
+modules
+DIP-16_W7.62mm_LongPads
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+16
+16
+modules
+DIP-20_W7.62mm_LongPads
+20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+20
+20
+modules
+DIP-24_W15.24mm_LongPads
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+24
+24
+modules
+DIP-28_W15.24mm_LongPads
+28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+28
+28
+modules
+DIP-40_W15.24mm_LongPads
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+40
+40
+modules
+DSUB-9_Female_Horizontal_Assmann_A-DF_09_A-KG-T2S
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+11
+10
+modules
+Jack_3.5mm_CUI_SJ1-3544_Horizontal
+https://www.cuidevices.com/product/resource/sj1-354x.pdf
+jack stereo TRS
+0
+4
+4
+modules
+LED-3MM
+LED 3mm round vertical
+LED  3mm round vertical
+0
+2
+2
+modules
+Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical
+Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-254 vertical
+0
+2
+2
+modules
+MountingHole_3.2mm_Hammond_1593
+Mounting Hole 3.2mm, no annular, Hammond 1593
+mounting hole 3.2mm no annular Hammond 1593
+0
+0
+0
+modules
+PinHeader_1x02_P2.54mm_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+modules
+PinHeader_1x03_P2.54mm_Vertical
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+modules
+Potentiometer_Bourns_PTV111-1_Single_Horizontal
+Potentiometer, horizontal, Bourns PTV111-1 Single, https://www.bourns.com/docs/Product-Datasheets/PTVPTT.pdf
+Potentiometer horizontal Bourns PTV111-1 Single
+0
+6
+3
+modules
+R3
+Resitance 3 pas
+R
+0
+2
+2
+modules
+R_Array_SIP7
+7-pin Resistor SIP pack
+R
+0
+7
+7
+modules
+SW_PUSH_6mm
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+tact sw push 6mm
+0
+4
+2
