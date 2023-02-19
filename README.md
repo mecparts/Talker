@@ -3,6 +3,8 @@
 
 https://user-images.githubusercontent.com/2958269/219981340-8b78e90d-9670-4efd-8d31-d1f6b8fc3262.mp4
 
+<br>
+
 Quoted from [General Instrument Application Note 0505D: CTS256A-AL2 Code-to-Speech Chipset](https://bitsavers.computerhistory.org/components/gi/speech/General_Instrument_-_AN-0505D_-_CTS256A-AL2_Code-to-Speech_Chipset_-_10Dec1986.pdf)
 
 > ## Description
@@ -90,7 +92,7 @@ C1,C2,C3,<br>C5,C13,<br>C20-C29|100nF ceramic capcitors, 0.1" lead spacing
 C10,11|10uF electrolytic capacitors, 2mm lead spacing
 C16|22nF ceramic capacitor, 0.1" lead spacing
 C4,C8|220uF electrolytic capacitors, 2.5mm lead spacing
-C6,C7,C14,C15|22pF ceramic capacitors, 2.5mm lead spacing
+C6,C7,<br>C14,C15|22pF ceramic capacitors, 2.5mm lead spacing
 C9,C12,<br>C17,C18,<br>C19|47nF ceramic capacitors, 2.5mm lead spacing
 D1|3mm LED
 J1|DC Barrel 2.1mm Jack
