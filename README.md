@@ -53,7 +53,7 @@ serial interface is programmed not by onboard DIP switches, but by the
 contents of the exception word EPROM.
 
 The active filter was cribbed directly from David C. Alford's article
-in the [December 1985 issue of Micro Cornucopia, "Speech Generation With Radio Shack's SPO256")[https://archive.org/details/micro-cornucopia-magazine-1985-12].
+in the [December 1985 issue of Micro Cornucopia, "Speech Generation With Radio Shack's SPO256"](https://archive.org/details/micro-cornucopia-magazine-1985-12).
 
 # The PCB
 
