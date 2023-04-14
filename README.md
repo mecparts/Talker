@@ -1,7 +1,8 @@
 # General Instrument code to speech board
+![Talker PCB](Talker_PCB.jpg "Talker PCB")
+<br>
 
-
-https://user-images.githubusercontent.com/2958269/219981340-8b78e90d-9670-4efd-8d31-d1f6b8fc3262.mp4
+https://user-images.githubusercontent.com/2958269/232146398-3386e22a-f2b2-4650-9bee-b34bc73b3b4c.mp4
 
 <br>
 
