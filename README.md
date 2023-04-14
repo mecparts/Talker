@@ -2,7 +2,8 @@
 ![Talker PCB](Talker_PCB.jpg "Talker PCB")
 <br>
 
-https://user-images.githubusercontent.com/2958269/232146398-3386e22a-f2b2-4650-9bee-b34bc73b3b4c.mp4
+<!--https://user-images.githubusercontent.com/2958269/232146398-3386e22a-f2b2-4650-9bee-b34bc73b3b4c.mp4-->
+https://user-images.githubusercontent.com/2958269/232169769-99e8073a-7eef-4b14-9e35-29c342e6777a.mp4
 
 <br>
 
