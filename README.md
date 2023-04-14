@@ -54,6 +54,18 @@ contents of the exception word EPROM.
 
 The active filter was cribbed directly from David C. Alford's article
 in the [December 1985 issue of Micro Cornucopia, "Speech Generation With Radio Shack's SPO256"](https://archive.org/details/micro-cornucopia-magazine-1985-12).
+Although I seemed to have it working well enough when I breadboarded the
+circuit, the first version on the PCB was pretty horrible. It sounded like
+it was clipping - a lot. It turned out to be a dumb mistake on my part.
+Just because the LM324 is spec'd to work on a single supply, the circuit
+wasn't designed for that. Without a negative supply, I was losing the 
+entire negative half of the signal. How on earth I didn't hear that on
+the breadboarded version, I have no idea. I toyed with the idea of 
+pulling V- from the MAX232A and regulating it down to -5V; the current
+requirements of the LM324 were modest enough I could have gotten away
+with it. But I couldn't quickly find a through hole negative regulator
+that didn't draw much more current than the LM324 would have. I had a
+few ICL7660s in my parts box, so I went that route instead.
 
 # The PCB
 
@@ -78,6 +90,7 @@ U5|LM324 DIP14 300 mil
 U6|LM386 DIP8 300 mil
 U7|MAX232 DIP16 300 mil
 U8|74LS14 DIP14 300 mil
+U9|ICL7660 DIP8 300 mil
 U10|2716/32 2K/4Kx8 EPROM DIP24 600 mil
 U11|6116 2Kx8 SRAM DIP24 600 mil
 Y1|10MHz crystal HC49-U
@@ -89,11 +102,12 @@ R18|20K 1/8W
 R2,5,12|4.7K 1/8W
 RN1|4.7K bussed resistor array (DigiKey# 4607X-101-472LF-ND)
 C1,C2,C3,<br>C5,C13,<br>C20-C29|100nF ceramic capcitors, 0.1" lead spacing
-C10,11|10uF electrolytic capacitors, 2mm lead spacing
+C10,C11,C31|10uF electrolytic capacitors, 2mm lead spacing
 C16|22nF ceramic capacitor, 0.1" lead spacing
 C4,C8|220uF electrolytic capacitors, 2.5mm lead spacing
 C6,C7,<br>C14,C15|22pF ceramic capacitors, 2.5mm lead spacing
 C9,C12,<br>C17,C18,<br>C19|47nF ceramic capacitors, 2.5mm lead spacing
+C31|2.2uF tantalum capacitor, 0.1" lead spacing
 D1|3mm LED
 J1|DC Barrel 2.1mm Jack
 J2|DSUB-9 Female Horizontal (Assmann A-DF 09 A-KG-T2S)

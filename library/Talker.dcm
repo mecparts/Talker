@@ -24,6 +24,18 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP ICL7660
+D Switched-Capacitor Voltage Converter, 1.5V to 10.0V operating supply voltage, 10mA with a 0.5V output drop, SO-8/DIP-8/µMAX-8/TO-99
+K monolithic CMOS switched capacitor voltage converter invert double divide multiply
+F http://datasheets.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf
+$ENDCMP
+#
+$CMP MAX1044
+D Switched-Capacitor Voltage Converter, 1.5V to 10.0V operating supply voltage, 10mA with a 0.5V output drop, SO-8/DIP-8/µMAX-8/TO-99
+K monolithic CMOS switched capacitor voltage converter invert double divide multiply boost
+F http://datasheets.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf
+$ENDCMP
+#
 $CMP SW_Push
 D Push button switch, generic, two pins
 K switch normally-open pushbutton push-button
