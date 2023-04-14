@@ -1,6 +1,6 @@
 # General Instrument code to speech board
 
-https://user-images.githubusercontent.com/2958269/232145730-0c889982-4ce1-40af-863f-1e8e2e9dcb7c.mp4
+https://user-images.githubusercontent.com/2958269/232146398-3386e22a-f2b2-4650-9bee-b34bc73b3b4c.mp4
 
 <br>
 
